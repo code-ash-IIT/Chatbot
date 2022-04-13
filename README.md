@@ -44,4 +44,4 @@ Clone the repo and feel free to send any Pull Requests that you feel to be const
 
 ## Team Members
 
-[Tushar Goyal](https://github.com/tushargoyal22), [Karan Doshi](https://github.com/karansdoshi), [Prakhar Uniyal](https://github.com/PrakharUniyal)
+[Tushar Goyal](https://github.com/tushargoyal22), [Karan Doshi](https://github.com/karansdoshi), [Prakhar Uniyal](https://github.com/PrakharUniyal), [Ashutosh Sharma](https://github.com/code-ash-IIT)
